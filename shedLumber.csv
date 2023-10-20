@@ -1,0 +1,73 @@
+Kerf / Blade thickness,0.125,,
+,,,
+Required stocks,,,
+Stock length,Quantity,price,ext. price
+96,2,3.98,7.96
+120,1,6.48,6.48
+144,17,7.77,132.09
+Total,20,,146.53
+,,,
+,,,
+Cutting layouts,,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+A,2,96,0
+Part length,Quantity,Label,
+96,1,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+B,1,120,6.25
+Part length,Quantity,Label,
+7.00E+01,1,,
+43.5,1,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+C,1,144,0
+Part length,Quantity,Label,
+44,2,,
+43.5,1,,
+12,1,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+D,3,144,1.375
+Part length,Quantity,Label,
+56.25,1,,
+45,1,,
+41,1,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+E,4,144,2.75
+Part length,Quantity,Label,
+96,1,,
+45,1,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+F,3,144,3.75
+Part length,Quantity,Label,
+7.00E+01,2,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+G,2,144,3.75
+Part length,Quantity,Label,
+96,1,,
+44,1,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+H,1,144,3.5
+Part length,Quantity,Label,
+43.5,2,,
+41,1,,
+12,1,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+I,2,144,7
+Part length,Quantity,Label,
+56.25,2,,
+12,2,,
+,,,
+Layout ID,Repetition,Stock length,Material remnant
+J,1,144,11.625
+Part length,Quantity,Label,
+44,3,,
+,,,
+Created by www.opticutter.com,,,
