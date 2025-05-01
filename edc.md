@@ -1,3 +1,9 @@
+https://www.etsy.com/ca/listing/1425132043/gerber-armbar-slim-drive-pocket-clip-and?click_key=ebbcb0b1079b2a40ff50d020e9aa2023de84392c%3A1425132043&click_sum=c8ba45f1&ref=shop_home_feat_1&sts=1
+https://www.victorinox.com/ca/en/Products/Swiss-Army-Knives/Swiss-Cards/Swiss-Card-Nailcare/p/0.7240.T21
+2x https://countycomm.com/products/incredible-industrial-titanium-spork?_pos=1&_sid=bc9023ae4&_ss=r
+https://www.leatherman.com/en_CA/bit-kit-set-127.html
+medium or large: https://www.gearaid.com/collections/heroclip
+
 # Every Day Carry
 
 goal: Use when out and about with family
