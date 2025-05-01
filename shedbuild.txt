@@ -4,15 +4,16 @@ Sheet Goods:
 5 @ 1/2" siding 135.01
 
 2x4:
-7 @ 45"
-7 @ 56 1/4" 
-8 @ 96"
-4 @ 43 1/2"
-7 @ 44"
-4 @ 41"
-7 @ 69 7/8"
-6 scraps
-total price: 168.51
+1 @ 27 1/2" (window header)
+2 @ 30 1/2" (window sill)
+4 @ 41" (Door headers)
+7 @ 45" (floor joists)
+4 @ 49 1/2" (Door frame)
+7 @ 50" (studs - short side)
+7 @ 58" (studs - tall side)
+7 @ 69" (roof joists )
+8 @ 96" ()
+total price: 
 
 4x4:
 2 @ 96"
@@ -20,7 +21,22 @@ total price: 40.85
 
 1x4:
 4 @ 37 1/2"
+4 @ 41 3/4"
 2 @ 52"
+
+
+ice and water: already have it
+
+shingles:
+
+fasteners:
+6 hurricane ties (with proper fasteners)
+framing nails (16d or 12d)
+roofing nails (dad will likely give me those)
+
+drip edge
+flashing
+
 
 
 
