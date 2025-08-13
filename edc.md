@@ -16,6 +16,7 @@ tomtoc explorer-h02 sling?
 - zip lock freezer bags
 - zip ties
 - driver bits
+  - #1 philips
   - #1 robertson
   - #2 robertson
 - pen/pencil
@@ -25,8 +26,7 @@ tomtoc explorer-h02 sling?
 - cordage
   - fire tinder cordage
   - kevlar cordage
-- TEC Accessories RETREEV <-- really cool XD
-- carabiner
+- carabiner/hero clip
 - rubber bands
 - super glue
 - spork
@@ -35,12 +35,8 @@ tomtoc explorer-h02 sling?
 - lighter
 - flashlight
 - knife
-- fresnel lense
 - tape measure (ikea?)
 - ponchos
-- small dry bag
-- pliers (knipex)
-- hero clip
 - pry bar
 - small glow stick
 - collapsible straw(s)
@@ -48,18 +44,16 @@ tomtoc explorer-h02 sling?
 ## Cleaning
 - tide pen
 - dog poop bags
-- compressed towelets
+- wipes
+- hand sanitizer
  
 ## Grooming
 - hair ties/bobby pins
-- sling bag
 - safety pins
 - listerine strips
 - feminine hygene
-- mini toothbrush with toothpaste on them
 - toothpicks/floss sticks
 - nail clippers
-- baby powder
 
 ## Care (first aid)
 - drugs
@@ -74,19 +68,14 @@ tomtoc explorer-h02 sling?
 - gloves
 - anti-blister patches
 - tweezers
-- travel bug spray
-- sunscreen
 - band-aids
-- water purify tablets
-- hand sanitizer
-- eye wash
 
 ## Tech
 - charger card
 -   (sim card tool)
 -   cell phone stand
 - batteries
-- thumb drive
+- thumb drive (images of personal docs)
 - usb otg adapter
 - usb wall brick
 
@@ -165,3 +154,15 @@ anti-blister patches	3
    (sim card tool)	 	 need to double check if this is in the charger card
  first aid supplies		
  change (coins)		
+
+## Dopp kit
+- baby powder
+- reusable containers for liquids
+
+## bigger bag
+- travel bug spray
+- sunscreen
+- water purify tablets
+- small dry bag
+- pliers (knipex)
+- eye wash
